@@ -1,0 +1,39 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter: Attach to Device",
+            "type": "dart",
+            "request": "attach"
+        },
+        
+
+        
+        
+
+
+    {
+        "name": "Flutter: Attach to Device",
+        "type": "dart",
+        "request": "attach"
+    },
+        {
+            "name": "Flutter: Attach to Device",
+            "type": "dart",
+            "request": "attach"
+        },
+
+        
+        {
+            "name": "projet1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "projet1 (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
